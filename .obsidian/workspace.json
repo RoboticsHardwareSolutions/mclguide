@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "eefdab6ebdbe0f30",
+    "type": "split",
+    "children": [
+      {
+        "id": "26643524bf79b03d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ffaa378061f8f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thinks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da3936a67e7c7c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ab9590d1879cae7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f172d01f752db172",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f683d69e5f9e6f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28a4ec6705b409e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25f7d7f9e6c42741",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9e24c7f3bc97f45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a76c61659a9759c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "thinks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "552fbdc62e30216d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "thinks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e3237ea9640a8cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a2a16e054ec54ee0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "thinks.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0ffaa378061f8f75",
+  "lastOpenFiles": [
+    "README.md",
+    "thinks.md",
+    "docs/integration.md",
+    "docs/mclguide.md",
+    "env/Python 3/App/Lib/distutils/__pycache__/log.cpython-32.pyc",
+    "env/Python 3/App/Lib/distutils/__pycache__/spawn.cpython-32.pyc",
+    "env/Python 3/App/Lib/distutils/__pycache__/dep_util.cpython-32.pyc",
+    "env/Python 3/App/Lib/distutils/__pycache__/errors.cpython-32.pyc",
+    "env/Python 3/App/Lib/distutils/__pycache__/util.cpython-32.pyc",
+    "env/Python 3/App/Lib/distutils/__pycache__/__init__.cpython-32.pyc",
+    "env/Python 3/App/Lib/distutils/__pycache__",
+    "env/Python 3/App/Lib/__pycache__/copy.cpython-32.pyc",
+    "env/Python 3/App/Lib/__pycache__/gettext.cpython-32.pyc",
+    "env/Python 3/App/Lib/__pycache__/optparse.cpython-32.pyc",
+    "env/Python 3/App/tcl/tk8.5/demos/images/tcllogo.gif",
+    "env/Python 3/App/tcl/tk8.5/demos/images/earthris.gif",
+    "env/Python 3/App/tcl/tk8.5/demos/images/earth.gif",
+    "env/Python 3/App/tcl/tk8.5/images/tai-ku.gif",
+    "env/Python 3/App/tcl/tk8.5/images/pwrdLogo75.gif",
+    "env/Python 3/App/tcl/tk8.5/images/pwrdLogo200.gif",
+    "env/Python 3/App/tcl/tk8.5/images/pwrdLogo175.gif",
+    "env/Python 3/App/tcl/tk8.5/images/pwrdLogo150.gif",
+    "env/Python 3/App/tcl/tk8.5/images/pwrdLogo100.gif",
+    "env/Python 3/App/tcl/tk8.5/images/logoMed.gif",
+    "mclguide.md",
+    "index.md",
+    "guide/index.md"
+  ]
+}
